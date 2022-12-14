@@ -1,17 +1,14 @@
-<!--
+
 # ✨목차
 
-1. [소개](#Plants-Image-Classification-Project)
+1. [소개](#NodejsToyProject)
 2. [제작기간 및 참여인원](#제작기간-및-참여인원)
 3. [사용기술 & 개발환경](#사용기술-&-개발환경)
-4. [식물 데이터셋](#식물-데이터셋)
-5. [모델 트레이닝](#모델-트레이닝)
 
 <br><br>
 
-# Plants Image Classification Project
-### 입력 받은 식물 이미지를 분류한다
-Yolov5와 Tensorflow를 기반으로 제작한 식물 분류 인공지능<br>
+# Nodejs Toy Project (진행중)
+### Node.js와 MongoDB를 이용한 Toy Project
 
 <br>
 
@@ -20,13 +17,11 @@ Yolov5와 Tensorflow를 기반으로 제작한 식물 분류 인공지능<br>
 <br><br>
 
 # 제작기간 및 참여인원
-### 데이터 수집, 가공 및 라벨링
-2022-09-4 ~ 2022-9-20
-### 데이터 학습 및 오류 수정
-2022-09-20 ~ 2022-9-30
-### 참여인원
-팀 프로젝트 (총 6명)<br>
+### 
+2022-12-10 ~ 
 
+### 참여인원
+개인프로젝트
 <br>
 
 [목차🔺](#목차)
@@ -35,34 +30,32 @@ Yolov5와 Tensorflow를 기반으로 제작한 식물 분류 인공지능<br>
 
 # 사용기술 & 개발환경
 ### 
-- Google colaboratory
-- Yolov5
-- Tesnsorflow
+- Visual studio code
+- Node.js
+- MongoDB
+- HTML
+- CSS
+- Javascript
+
 <br>
 
 [목차🔺](#목차)
 
 <br><br>
 
-# 식물 데이터셋
-### 1. Class : 17
-  - Golden_pothos, Muehlenbeckia_complexa, Happy_plant, Bunnyearscactus, Rosmarinus, Dracaena, Chlorophytum
-  - Monstera, Chamaedorea_elegans, Bengal_Fig, Stuckyi, Pachira, Ardisia_crenata, Zamia, Staghorn
-  - Birkin, Wilma
+# 계획
+### 1. 게시판
 
-2. Images : 6800
-3. Train/Vaild (100%)
-  - Train : 5440(80%)
-  - Valid : 1360(20%)
+회원가입, 로그인, 글쓰기, 리스트
 
-<img src="https://github.com/SungwonDev/Plants_Image_Classification-Project/blob/main/Projcet/tensorboard.JPG" width="500" height="500">
+### 2. 채팅
 
-Dataset Download : https://drive.google.com/file/d/18gkiKTJwl_FO99dnqbxyCCDyFQdo6hpY/view?usp=sharing
+서로다른 사용자가 채팅을 주고 받을 수 있다
 
 [목차🔺](#목차)
 
 <br><br>
-
+<!--
 # 모델 트레이닝
 
 1. yolov5 설치
