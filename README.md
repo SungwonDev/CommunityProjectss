@@ -4,7 +4,7 @@
 1. [소개](#NodejsToyProject)
 2. [제작기간 및 참여인원](#제작기간-및-참여인원)
 3. [사용기술 & 개발환경](#사용기술-&-개발환경)
-4. [화면구성 & 기능](# 화면구성-&-기능)
+4. [화면구성 & 기능](#화면구성-&-기능)
 
 <br><br>
 
@@ -46,6 +46,7 @@
 <br><br>
 
 # 화면구성 & 기능
+
 ### 1. 로그인 / 회원가입
 ![main](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/1.%20home.png)<br>
 
