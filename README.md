@@ -45,7 +45,7 @@
 
 # 화면구성 및 기능
 ### 1. 게시판
-![main]([https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png](https://github.com/SungwonDev/CommunityProjectss/blob/main/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/1.%20%ED%99%88.png))<br>
+![main](https://github.com/SungwonDev/CommunityProjectss/blob/main/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/1.%20%ED%99%88.png)<br>
 
 <details>
 	
