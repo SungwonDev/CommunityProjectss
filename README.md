@@ -36,6 +36,7 @@
 - HTML
 - CSS
 - Javascript
+- ejs
 
 <br>
 
@@ -44,29 +45,70 @@
 <br><br>
 
 # 화면구성 및 기능
-### 1. 게시판
-![main](https://github.com/SungwonDev/CommunityProjectss/blob/main/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/1.%20%ED%99%88.png)<br>
+### 1. 로그인 / 회원가입
+![main](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/1.%20home.png)<br>
 
 <details>
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png)<br>
+![regist](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/1%20regist.png)<br>
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852.png)<br>
+![regist](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/1-1%20regist.png)<br>
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%853.png)<br>	
+![login](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/2-1%20login.png)<br>	
+	
+![login](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/2-2%20login.png)<br>
+	
 </details>
 
-### 2. 채팅
+### 2. 기능
 
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png)<br>
+![list](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/3.%20list.png)<br>
 
 <details>
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%851.png)<br>
+### 1. List
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%852.png)<br>
+![list](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/3-1%20list.png)<br>
 	
-![regist](https://github.com/SungwonDev/DaangnMarket-Web-Project/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%88%98%EC%A0%95/1.%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%853.png)<br>	
-</details>
+![list](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/3.%20list.png)<br>
+	
+	
+### 2. Write
+	
+![write](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/3-2%20list.png)<br>
+	
+![write](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/4-1%20write.png)<br>
+	
+![write](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/4-2%20write.png)<br>	
+	
+### 3. Search
+
+![search](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/5-1%20search.png)<br>		
+	
+![search](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/5-2%20search.png)<br>	
+	
+### 4. Detail
+
+![detail](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/6-1%20detail.png)<br>		
+	
+![detail](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/6-2%20detail.png)<br>
+	
+### 5. Edit
+	
+![edit](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/7%20edit.png)<br>		
+	
+![edit](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/7-1%20edit.png)<br>	
+	
+### 6. Chat	
+	
+![chat](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/8-1%20chat.png)<br>		
+	
+![chat](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/8-2%20chat.png)<br>
+	
+### 7. OpenChat
+	
+![allchat](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/9%20allchat.png)<br>		
+	
+![allchat](https://github.com/SungwonDev/CommunityProjectss/blob/main/edit/9-1%20allchat.png)<br>	
 
 [목차🔺](#목차)
